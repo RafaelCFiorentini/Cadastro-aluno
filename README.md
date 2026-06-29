@@ -34,8 +34,3 @@ Sistema de console para cadastro e gerenciamento de alunos, implementado com uma
 ```bash
 dotnet run
 ```
-
-## Autor
-
-Rafael Costa Fiorentini  
-Sistemas de Informação — PUC Minas
